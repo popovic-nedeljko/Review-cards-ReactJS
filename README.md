@@ -2,7 +2,7 @@
 
 [Check it out](https://reviews-cards-2022.netlify.app/)
 
-<img src='/src/img/reviews_cards.png' width=500 height=500> <img src='/src/img/review-card-phone.png' width=300 height=500>
+<img src='/src/img/reviews_cards.png' width=500 height=400> <img src='/src/img/review-card-phone.png' width=300 height=500>
 
 React component-application designed to provide an interactive and dynamic user experience for displaying customer reviews.
 
