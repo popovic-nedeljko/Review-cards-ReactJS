@@ -33,7 +33,7 @@ const Review = () => {
     }
     setIndex(checkNumber(randomNumber));
   };
-
+  console.log();
   return (
     <article className='review'>
       <div className='img-container'>
