@@ -9,3 +9,8 @@ React component-application designed to provide an interactive and dynamic user 
 The use of React hooks allows for easy management of state and updating the UI based on user actions.
 
 The FontAwesome icon library provides a simple way to add icons to the UI, enhancing the overall design and usability of the application.
+
+## NOTE*** 
+node version: 16.15.0
+
+npm version: 8.5.5
